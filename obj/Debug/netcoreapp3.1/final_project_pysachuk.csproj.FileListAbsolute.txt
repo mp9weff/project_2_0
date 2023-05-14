@@ -1,0 +1,14 @@
+C:\Users\ASUS\source\repos\final_project_pysachuk\bin\Debug\netcoreapp3.1\final_project_pysachuk.exe
+C:\Users\ASUS\source\repos\final_project_pysachuk\bin\Debug\netcoreapp3.1\final_project_pysachuk.deps.json
+C:\Users\ASUS\source\repos\final_project_pysachuk\bin\Debug\netcoreapp3.1\final_project_pysachuk.runtimeconfig.json
+C:\Users\ASUS\source\repos\final_project_pysachuk\bin\Debug\netcoreapp3.1\final_project_pysachuk.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\final_project_pysachuk\bin\Debug\netcoreapp3.1\final_project_pysachuk.dll
+C:\Users\ASUS\source\repos\final_project_pysachuk\bin\Debug\netcoreapp3.1\final_project_pysachuk.pdb
+C:\Users\ASUS\source\repos\final_project_pysachuk\obj\Debug\netcoreapp3.1\final_project_pysachuk.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\final_project_pysachuk\obj\Debug\netcoreapp3.1\final_project_pysachuk.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\final_project_pysachuk\obj\Debug\netcoreapp3.1\final_project_pysachuk.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\final_project_pysachuk\obj\Debug\netcoreapp3.1\final_project_pysachuk.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\final_project_pysachuk\obj\Debug\netcoreapp3.1\final_project_pysachuk.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\final_project_pysachuk\obj\Debug\netcoreapp3.1\final_project_pysachuk.dll
+C:\Users\ASUS\source\repos\final_project_pysachuk\obj\Debug\netcoreapp3.1\final_project_pysachuk.pdb
+C:\Users\ASUS\source\repos\final_project_pysachuk\obj\Debug\netcoreapp3.1\final_project_pysachuk.genruntimeconfig.cache
